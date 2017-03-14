@@ -325,6 +325,11 @@ $ apm link
 5. Send me a pull request :)
 
 
+# Others
+
+If you want to use VSCode, check my [another repo](https://github.com/Armour/vscode-typescript-react-redux-snippets).
+
+
 # License 
 
 MIT License
