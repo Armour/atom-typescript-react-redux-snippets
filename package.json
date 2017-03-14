@@ -13,14 +13,17 @@
   "keywords": [
     "typescript",
     "react",
-    "react router",
     "redux",
+    "react-redux",
     "snippets",
     "es6",
-    "atom"
+    "atom",
+    "atom-snippets",
+    "snippets"
   ],
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">0.50.0",
+    "vscode": "^0.10.0"
   },
   "bugs": {
     "url": "https://github.com/Armour/atom-typescript-react-redux-snippets/issues"
