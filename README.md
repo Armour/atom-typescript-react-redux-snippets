@@ -327,7 +327,7 @@ $ apm link
 
 # Others
 
-If you want to use VSCode, check my [another repo](https://github.com/Armour/vscode-typescript-react-redux-snippets).
+If you prefer to use VSCode, check my [another repo](https://github.com/Armour/vscode-typescript-react-redux-snippets).
 
 
 # License 
