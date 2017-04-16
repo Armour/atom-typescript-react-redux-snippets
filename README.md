@@ -7,8 +7,7 @@
 
 Typescript, React and Redux snippets for Atom (followed ES6 standard)
 
-
-# Snippets
+## Snippets
 
 * **_tsr** : basic typescript react template (2 spaces)
 
@@ -297,39 +296,34 @@ Typescript, React and Redux snippets for Atom (followed ES6 standard)
   ${2}
   ```
 
-
-# Install
+## Install
 
 Search for `atom-typescript-react-redux-snippets` in `Install` page
 
 Install and Restart Atom
 
-
-# Development
+## Development
 
 ```bash
-$ cd ~/.atom/packages
-$ git clone https://github.com/Armour/atom-typescript-react-redux-snippets
-$ cd atom-typescript-react-redux-snippets
-$ apm install
-$ apm link
+cd ~/.atom/packages
+git clone https://github.com/Armour/atom-typescript-react-redux-snippets
+cd atom-typescript-react-redux-snippets
+apm install
+apm link
 ```
 
-
-# Contributing
+## Contributing
 
 1. Fork this repo.
-2. Create your own branch: git checkout -b feature/my-feature
-3. Commit your changes: git commit -m 'add some new feature'
-4. Push to your branch: git push origin feature/my-feature
-5. Send me a pull request :)
+1. Create your own branch: git checkout -b feature/my-feature
+1. Commit your changes: git commit -m 'add some new feature'
+1. Push to your branch: git push origin feature/my-feature
+1. Send me a pull request :)
 
-
-# Others
+## Others
 
 If you want to use VSCode, check my [another repo](https://github.com/Armour/vscode-typescript-react-redux-snippets).
 
-
-# License 
+## License
 
 MIT License
